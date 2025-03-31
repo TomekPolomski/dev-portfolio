@@ -15,24 +15,24 @@ const About = () => {
 				<div className='border border-white/20 rounded-lg p-6'>
 					<h3 className='text-2xl font-bold mb-2'>O1. Background</h3>
 					<p className='text-white/50 mb-6'>
-						I'm a passionate full-stack developer with a strong foundation in computer science and a love for creating
+						I am a passionate full-stack developer with a strong foundation in computer science and a love for creating
 						innovative web solutions. My journey in tech started with a curiosity about how things work, which led me to
 						pursue a career in web development.
 					</p>
 					<div className='rounded-lg p-4 mb-4 border border-white/20'>
 						<code className='text-purple-200/50'>
 							const skills = [<br />
-							&nbsp;&nbsp;'JavaScript',
+							<span className='ml-4'>'JavaScript',</span>
 							<br />
-							&nbsp;&nbsp;'React',
+							<span className='ml-4'>'React',</span>
 							<br />
-							&nbsp;&nbsp;'Node.js',
+							<span className='ml-4'>'Node.js',</span>
 							<br />
-							&nbsp;&nbsp;'Next.js',
+							<span className='ml-4'>'Next.js',</span>
 							<br />
-							&nbsp;&nbsp;'MySQL',
+							<span className='ml-4'>'MySQL',</span>
 							<br />
-							&nbsp;&nbsp;'PostgreSQL'
+							<span className='ml-4'>'PostgreSQL'</span>
 							<br />
 							];
 						</code>
@@ -59,7 +59,7 @@ const About = () => {
 				<div className='border border-white/20 rounded-lg p-6'>
 					<h3 className='text-2xl font-bold mb-2'>03. Skills</h3>
 					<p className='text-white/50 mb-4'>
-						I'm proficient in a wide range of technologies and constantly expanding my skill set to stay at the
+						I am proficient in a wide range of technologies and constantly expanding my skill set to stay at the
 						forefront of web development.
 					</p>
 					<div className='grid text-center gap-4'>
@@ -131,8 +131,8 @@ const About = () => {
 						<h3 className='text-2xl font-bold mb-6'>05. Goals</h3>
 						<p className='text-white/50'>
 							My goal is to continue growing as a developer, tackling challenging projects, and contributing to the tech
-							community. I'm always excited to learn new technologies and push the boundaries of what is possible in web
-							development.
+							community. I am always excited to learn new technologies and push the boundaries of what is possible in
+							web development.
 						</p>
 					</div>
 				</div>
