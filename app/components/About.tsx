@@ -22,17 +22,17 @@ const About = () => {
 					<div className='rounded-lg p-4 mb-4 border border-white/20'>
 						<code className='text-purple-200/50'>
 							const skills = [<br />
-							<span className='ml-4'>'JavaScript',</span>
+							<span className='ml-4'>{'JavaScript,'}</span>
 							<br />
-							<span className='ml-4'>'React',</span>
+							<span className='ml-4'>{'React,'}</span>
 							<br />
-							<span className='ml-4'>'Node.js',</span>
+							<span className='ml-4'>{'Node.js,'}</span>
 							<br />
-							<span className='ml-4'>'Next.js',</span>
+							<span className='ml-4'>{'Next.js,'}</span>
 							<br />
-							<span className='ml-4'>'MySQL',</span>
+							<span className='ml-4'>{'MySQL,'}</span>
 							<br />
-							<span className='ml-4'>'PostgreSQL'</span>
+							<span className='ml-4'>{'PostgreSQL'}</span>
 							<br />
 							];
 						</code>
